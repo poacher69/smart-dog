@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "394083433514",
+    "firebase_url": "https://ottoapp-ea5ec.firebaseio.com",
+    "project_id": "ottoapp-ea5ec",
+    "storage_bucket": "ottoapp-ea5ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394083433514:android:47346255729d957c",
+        "android_client_info": {
+          "package_name": "com.wc.ottoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394083433514-5nomavfp0ujfrevasedmtccq85hpear2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wc.ottoapp",
+            "certificate_hash": "e25717978aed2f37ff61780fc1220547d4bb6031"
+          }
+        },
+        {
+          "client_id": "394083433514-2dkcge1osecfforg2n9avnove4mv107o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsWx23JET37UMotJSKqbUVShPrecovHpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394083433514-2dkcge1osecfforg2n9avnove4mv107o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

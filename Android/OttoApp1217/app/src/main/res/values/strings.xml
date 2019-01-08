@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OttoApp</string>
+    <string-array name="connect_choice">
+        <item>AP mode</item>
+        <item>Station mode</item>
+
+    </string-array>
+    <string name="input_ip_address">Input Ip Address</string>
+    <string name="General_Mode">General_Mode</string>
+    <string name="Speech_Mode">Speech_Mode</string>
+</resources>
